@@ -1,7 +1,7 @@
 # CuttingTools
 Welcome to the CuttingTools repository!
 
-This repository hosts the datasets utilized in my thesis titled "Using Artificial Intelligence Monocular Depth Estimation for Container Inspection." 
+This repository hosts the datasets utilized in my thesis titled "Cutting Tool Container Inspection: Stereo vision and monocular artificial intelligence depth estimation at Sandvik Coromant" 
 
 ## About the Thesis
 In my thesis, I explore the application of artificial intelligence, specifically monocular depth estimation techniques, in the domain of container inspection. By leveraging advanced Depth Anything a more robust container inspection method could be developed.
@@ -12,4 +12,4 @@ The datasets included here serve as the foundation for the research conducted in
 ### Dataset Descriptions
 - **Yellow**: Only Yellow metal cutting tools of different shapes and sizes.
 - **Shiny**: Only reflective "shiny" metal cutting tools of different shapes and sizes.
-- **Small**: Only the smallest of metal cutting tools still in different shapes.
+- **Small**: Only the smallest of metal cutting tools are still in different shapes.
