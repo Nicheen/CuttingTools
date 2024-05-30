@@ -13,3 +13,6 @@ The datasets included here serve as the foundation for the research conducted in
 - **Yellow**: Only Yellow metal cutting tools of different shapes and sizes.
 - **Shiny**: Only reflective "shiny" metal cutting tools of different shapes and sizes.
 - **Small**: Only the smallest of metal cutting tools are still in different shapes.
+
+### Check out MariGold for better AI Depth Estimations
+Link: https://huggingface.co/spaces/prs-eth/marigold
